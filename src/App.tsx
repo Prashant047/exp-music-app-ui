@@ -5,7 +5,7 @@ import { ReactNode, useState } from 'react';
 import { 
   HamburgerMenuIcon, MagnifyingGlassIcon, BellIcon,
   Cross1Icon, HomeIcon, ActivityLogIcon, PlayIcon,
-  RowsIcon, PlusIcon, ColorWheelIcon, DashboardIcon, ArrowLeftIcon, GearIcon, ExitIcon, ChevronLeftIcon, TriangleRightIcon, Share1Icon, UploadIcon, ArrowRightIcon, DotsVerticalIcon
+  RowsIcon, PlusIcon, ColorWheelIcon, DashboardIcon, ArrowLeftIcon, GearIcon, ExitIcon, ChevronLeftIcon, TriangleRightIcon, Share1Icon, UploadIcon, DotsVerticalIcon
 } from '@radix-ui/react-icons';
 
 import cover1 from './cover1.jpg';
